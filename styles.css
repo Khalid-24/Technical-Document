@@ -45,9 +45,9 @@ p, li{
 }
 
 .documentation-container p, h1  {
-    height: 40px; 
-    margin-top: 15px;      
-    padding-left: 30px;
+    height: 50px; 
+/*     margin-top: 15px;      
+    padding-left: 30px; */
     color: rgb(56, 55, 55);   
     
 }
@@ -102,6 +102,8 @@ li{
     height: 100%;
     text-decoration: none;
     color: rgb(56, 55, 55) ;
+    padding-left: 30px;
+    padding-top: 15px;
 
 }
 
