@@ -108,6 +108,10 @@ li{
 
 }
 
+.nav-bar a:hover{
+    background-color: #a1a1a1;
+}
+
 .nav-bar a:visited{
     color: rgb(56, 55, 55);
 }
