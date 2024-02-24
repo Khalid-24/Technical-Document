@@ -1,6 +1,6 @@
 # JavaScript Technical Documentation Website
 
-Overview
+## Overview
 Welcome to the JavaScript Technical Documentation Website! This website serves as a comprehensive resource for learning and understanding JavaScript. Whether you are a beginner looking to grasp the fundamentals or an experienced developer seeking reference material, this site has you covered.
 
 ## Features
